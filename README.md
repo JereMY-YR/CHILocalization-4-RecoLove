@@ -51,7 +51,8 @@
 ## 预览效果
 
 <img width="960" height="544" alt="2026-08-24-201656" src="https://github.com/user-attachments/assets/2bc569cd-d7fa-4272-9302-b60e1d76e8d6" />
-<img width="960" height="544" alt="2026-08-24-131526" src="https://github.com/user-attachments/assets/9f8fbe71-f698-48a9-a1f3-d4ffe9b61e0b" />
+<img width="960" height="544" alt="2026-08-23-005713" src="https://github.com/user-attachments/assets/c2cde04d-57d1-46ae-bc1b-375aedc91e0b" />
+<img width="960" height="544" alt="2026-10-28-102137" src="https://github.com/user-attachments/assets/c1bf7677-0628-4093-9e60-b1870d7e065d" />
 <img width="960" height="544" alt="2026-10-25-193139" src="https://github.com/user-attachments/assets/49b1e545-8474-4b4f-bc92-8954f73e1cc0" />
 <img width="960" height="544" alt="2026-10-25-194331" src="https://github.com/user-attachments/assets/f5070a32-99cf-46a0-b945-3f3202b5b720" />
 
