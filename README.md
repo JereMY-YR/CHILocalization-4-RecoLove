@@ -101,7 +101,7 @@ CHILocalization-4-RecoLove/
 3. PS Vita 安装可用的 rePatch 插件。
 4. 自行获取对应的合法解密文件。
 
-需要准备：
+需自行合法获取：
 
 ```text
 ux0:app/PCSG00781/       或   ux0:app/PCSG00782/
@@ -155,9 +155,8 @@ ux0:rePatch/PCSG00782/
 注意：
 
 - 只替换 `patch_manifest.tsv` 明确列出的文件。
-- 未安装的 DLC 无需处理。
 - 已安装的 DLC 必须保留完整原版资源。
-- 不要把补丁应用到旧的汉化文件或其他版本的文件上。
+- 不要把补丁应用到旧的汉化文件或其他版本的文件上，后果自负。
 
 ## 校验
 
